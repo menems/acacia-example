@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
- "author": "blaz <blaz@menems.net>",
+  "author": "blaz <blaz@menems.net>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
   "dependencies": {
     "acacia": "menems/acacia",
     "config-helper": "^1.1.0",
-    "koa-66": "^0.6.0"
+    "koa-66": "^0.7.2"
   }
 }

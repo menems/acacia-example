@@ -14,7 +14,6 @@ const conf = {
     }
 }
 
-
 const config = require('config-helper')(conf.config);
 
 const app = new Acacia(config);

@@ -1,6 +1,6 @@
 {
   "name": "acacia-example",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "url": "https://github.com/menems/acacia-example.git"
   },
   "dependencies": {
-    "acacia": "^0.1.0",
+    "acacia": "^0.2.1",
     "config-helper": "^1.2.0",
-    "koa-66": "^0.7.2"
+    "koa-66": "^0.7.3"
   }
 }
